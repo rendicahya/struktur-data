@@ -1,4 +1,4 @@
-package linkedlist.doubly;
+package strukturdata.linkedlist.doubly;
 
 public class Node {
 

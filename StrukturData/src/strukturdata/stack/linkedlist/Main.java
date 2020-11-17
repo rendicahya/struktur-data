@@ -1,4 +1,4 @@
-package stack.linkedlist;
+package strukturdata.stack.linkedlist;
 
 public class Main {
 

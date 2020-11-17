@@ -1,4 +1,4 @@
-package queue.array;
+package strukturdata.queue.array;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package tree;
+package strukturdata.tree;
 
 import queue.linkedlist.LinkedListQueue;
 

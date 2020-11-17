@@ -1,4 +1,4 @@
-package queue.linkedlist;
+package strukturdata.queue.linkedlist;
 
 public class Main {
 

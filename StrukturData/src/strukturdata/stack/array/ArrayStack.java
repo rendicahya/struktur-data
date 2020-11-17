@@ -1,4 +1,4 @@
-package stack.array;
+package strukturdata.stack.array;
 
 import java.util.EmptyStackException;
 

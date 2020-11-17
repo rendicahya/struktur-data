@@ -1,4 +1,4 @@
-package stack.linkedlist;
+package strukturdata.stack.linkedlist;
 
 import linkedlist.singly.Node;
 import java.util.EmptyStackException;

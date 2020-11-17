@@ -1,4 +1,4 @@
-package queue.linkedlist;
+package strukturdata.queue.linkedlist;
 
 import linkedlist.singly.Node;
 import linkedlist.singly.SinglyLinkedList;

@@ -1,4 +1,4 @@
-package queue.array;
+package strukturdata.queue.array;
 
 import java.util.Arrays;
 import queue.Queue;

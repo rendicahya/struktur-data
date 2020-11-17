@@ -1,4 +1,4 @@
-package linkedlist.singly;
+package strukturdata.linkedlist.singly;
 
 public class CircularlyLinkedList {
 
